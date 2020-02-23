@@ -4,6 +4,7 @@ end
 fido = Dog.new
 
 def bark
-  puts"Woof!"
+  puts "Woof!"
 end
 
+fido[:bark]
